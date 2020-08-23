@@ -1,7 +1,0 @@
-new line added by umesh
-line 1 added from GUI
-line 2 added from GUI
-
-line 3 added from CLI
-line 4 added from CLI
-line 5 added from CLI
